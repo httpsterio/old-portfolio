@@ -208,7 +208,9 @@ p, li {
 .user-projects img {
   max-width: 100%;
   height: auto;
-  border-radius: 5px;
+}
+.profile-pic {
+  border-radius:50%;
 }
 .user-projects h5 {
   margin: 0;
@@ -235,7 +237,6 @@ p, li {
   color: #10151A;
   background-color: transparent;
   border: 1px solid #10151A;
-  border-radius: 10px;
   text-align: center;
   outline: none;
   text-decoration: none;
