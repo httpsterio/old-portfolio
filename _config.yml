@@ -1,0 +1,20 @@
+# Site settings
+title: Sami Singhin hakemus SC5:lle
+description: Sami Singhin hakemus SC5:lle
+# baseurl: "/particle" # the subpath of your site, e.g. /blog
+url: "http://sc5.httpster.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+host: 0.0.0.0
+port: 80
+# User settings
+username: Sami Singh
+user_title: SC5:den tuleva UX-velho
+email: sami@httpster.io
+twitter_username: httpsterio
+github_username:  httpsterio
+#gplus_username:  lorem_ipsum
+
+# Google-analytics
+google-analytics:
+  id: "UA-97091351-1"
+
+exclude: ['package.json', 'src' , 'node_modules']
