@@ -4,10 +4,10 @@ description: Sami Singh | httpster.io
 # baseurl: ""
 url: "http://httpster.io" 
 host: 0.0.0.0
-port: 80
+port: 3000
 # User settings
 username: Sami Singh
-user_title: Meikon tuleva UX-velho
+user_title: Tuleva UX-velho
 email: sami@httpster.io
 twitter_username: httpsterio
 github_username:  httpsterio
